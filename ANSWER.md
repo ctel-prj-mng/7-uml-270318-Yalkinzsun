@@ -6,6 +6,6 @@
 
 ## Диаграмма последовательности
 
-![Herzen.jpg](img/herzen_.jpg)
+![Herzen.jpg](img/herzen_.1.jpg)
 
 ## Ответы на вопросы
